@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="450aff61-f181-4a20-b1ec-66c3b5c27010" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../joined_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/academiadecodigo/variachis/onetomany/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/academiadecodigo/variachis/onetomany/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Tamagotchi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Tamagotchi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Tamagotchi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Tamagotchi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Fashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Fashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Graduation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/ProfessorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/ProfessorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.class" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1054880875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="803" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="803" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Master.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+                <element signature="e#998#999#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Master.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="514" />
+    <option name="y" value="62" />
+    <option name="width" value="1367" />
+    <option name="height" value="922" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="onetomany" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="many_to_one" type="b2602c69:ProjectViewProjectNode" />
+              <item name="many_to_one" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541763455231" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.variachis.onetomany.Main" />
+      <module name="many_to_one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.variachis.onetomany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="450aff61-f181-4a20-b1ec-66c3b5c27010" name="Default Changelist" comment="" />
+      <created>1541712315012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541712315012</updated>
+      <workItem from="1541712318228" duration="4703000" />
+      <workItem from="1541754376394" duration="1644000" />
+      <workItem from="1541869144354" duration="1090000" />
+      <workItem from="1541957127689" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7512000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="514" y="62" width="1367" height="922" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20075472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32809773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/onetomany/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

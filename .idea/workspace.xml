@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f07453f6-fdf8-4ddd-9fad-c1e402121d64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_many/src/main/java/org/academiadecodigo/variachis/manytomany/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_one/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_one/src/main/java/org/academiadecodigo/variachis/onetomany/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../many_to_one/target/classes/org/academiadecodigo/variachis/onetomany/Pokemon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../many_to_one/target/classes/org/academiadecodigo/variachis/onetomany/Pokemon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Tamagotchi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/src/main/java/org/academiadecodigo/variachis/onetoone/Tamagotchi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Tamagotchi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../one_to_one/target/classes/org/academiadecodigo/variachis/onetoone/Tamagotchi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Fashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Fashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Graduation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Graduation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../single_table_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/sigletableinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/ProfessorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/ProfessorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../superclass_inheritance_mapping/src/main/java/org/academiadecodigo/varichis/superclassinheritancemapping/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/src/main/java/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.class" beforeDir="false" afterPath="$PROJECT_DIR$/../table_per_class_inheritance_mapping/target/classes/org/academiadecodigo/variachis/tableperclassinheritancemapping/Parapsychology.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-796637278">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="94" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="94" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding>
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="482" />
+    <option name="y" value="145" />
+    <option name="width" value="1024" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="joined_table_inheritance_mapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joined_table_inheritance_mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joined_table_inheritance_mapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joined_table_inheritance_mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joined_table_inheritance_mapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joined_table_inheritance_mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joined_table_inheritance_mapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joined_table_inheritance_mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="joined_table_inheritance_mapping" type="b2602c69:ProjectViewProjectNode" />
+              <item name="joined_table_inheritance_mapping" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="joinedtableinheritancemapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541709502270" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.variachis.joinedtableinheritancemapping.Main" />
+      <module name="joined_table_inheritance_mapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.variachis.joinedtableinheritancemapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07453f6-fdf8-4ddd-9fad-c1e402121d64" name="Default Changelist" comment="" />
+      <created>1541706252895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541706252895</updated>
+      <workItem from="1541706256061" duration="882000" />
+      <workItem from="1541716063469" duration="1592000" />
+      <workItem from="1541754591667" duration="1108000" />
+      <workItem from="1541956882229" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3635000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="482" y="145" width="1024" height="665" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26476577" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Parapsychology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Fashion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Graduation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/variachis/joinedtableinheritancemapping/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
